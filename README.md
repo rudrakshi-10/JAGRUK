@@ -1,7 +1,3 @@
-# Jagruk
-<section class="project-info">
-    <h1>🚨 JAGRUK – Smart Safety Clip</h1>
-
   # 🚨 JAGRUK – Smart Safety Clip
 
 ## 📌 Project Overview
